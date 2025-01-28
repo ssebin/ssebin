@@ -1,13 +1,14 @@
 ## Annyeong, I'm Sebin! 👋
 
 ### 🎓 About Me
-- **Final Year Software Engineering Student:** Currently working on my final year project, building a website to monitor postgraduate students' progress using Laravel, React, and PostgreSQL.
-- **Aspiring Full-Stack Developer:** Passionate about web development, particularly in the **JavaScript** and **PHP** ecosystems.
-- **Tech Enthusiast:** I enjoy experimenting with new frameworks and tools, constantly expanding my skill set.
+- **Software Engineering Graduate:** I have recently completed my degree in Software Engineering at University of Malaya.
+- **Aspiring Full-Stack Developer:** Passionate about building robust, scalable applications using the latest technologies.
+- **Tech Enthusiast:** I enjoy exploring cutting-edge frameworks and tools to continuously expand my skill set.
 
 ### 🚀 My Tech Stack
 - **Frontend:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -17,6 +18,7 @@
 - **Backend:**  
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white)
 
 - **Database:**  
@@ -38,14 +40,13 @@
   ![Google Authentication](https://img.shields.io/badge/-Google%20Auth-4285F4?style=flat-square&logo=Google&logoColor=white)
 
 ### 🌱 What I'm Learning
-- Improving my skills in React and Laravel
-- Utilizing APIs efficiently
-- Building scalable and secure authentication systems
-- Data visualization and flowchart designs
+- Exploring new technologies for full-stack development.
+- Learning advanced design patterns and system architecture.
+- Improving scalability and performance in web applications.
 
-### 🔭 Current Project
-- **Postgraduate Progress Monitoring System**: A full-stack application for managing postgraduate students' progress. Technologies include:
-  - **Frontend:** React
+### 🔭 Final Year Project: PandaGrad (https://pandagrad.com)
+A full-stack application for managing postgraduate students' progress. 
+  - **Frontend:** React Vite
   - **Backend:** Laravel
   - **Database:** PostgreSQL
 
