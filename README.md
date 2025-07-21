@@ -1,9 +1,9 @@
 ## Annyeong, I'm Sebin! 👋
 
 ### 🎓 About Me
-- **Software Engineering Graduate:** I have recently completed my degree in Software Engineering at University of Malaya.
-- **Aspiring Full-Stack Developer:** Passionate about building robust, scalable applications using the latest technologies.
-- **Tech Enthusiast:** I enjoy exploring cutting-edge frameworks and tools to continuously expand my skill set.
+- Software Engineering Graduate: I completed my Bachelor's degree in Computer Science at the University of Malaya.
+- Incoming Master's Student at Yonsei University: Starting September, I’ll be pursuing a Master’s in Computer Science with a focus on Human-AI Interaction and Data Visualization.
+- Builder & Explorer: I’m passionate about creating meaningful, user-centered applications and enjoy diving into new technologies to keep growing as a developer.
 
 ### 🚀 My Tech Stack
 - **Frontend:**  
@@ -40,15 +40,9 @@
   ![Google Authentication](https://img.shields.io/badge/-Google%20Auth-4285F4?style=flat-square&logo=Google&logoColor=white)
 
 ### 🌱 What I'm Learning
-- Exploring new technologies for full-stack development.
-- Learning advanced design patterns and system architecture.
-- Improving scalability and performance in web applications.
-
-### 🔭 Final Year Project: PandaGrad (https://pandagrad.com)
-A full-stack application for managing postgraduate students' progress. 
-  - **Frontend:** React Vite
-  - **Backend:** Laravel
-  - **Database:** PostgreSQL
+- Advanced topics in Human-Computer Interaction and AI integration.
+- Scalable mobile application development and system architecture.
+- Data visualization and personal health tracking using AI systems.
 
 ### 💬 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebinhwang)
