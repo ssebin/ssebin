@@ -2,8 +2,8 @@
 
 ### 🎓 About Me
 - Completed my Bachelor's degree in Computer Science at the University of Malaya.
-- Starting September, I’ll be pursuing a Master’s in Computer Science at Yonsei University with a focus on Human-AI Interaction and Data Visualization.
-- I’m passionate about creating meaningful, user-centered applications and enjoy diving into new technologies to keep growing as a developer.
+- Currently pursuing a Master’s in Computer Science at Yonsei University with a focus on Human-AI Interaction and Data Visualization.
+- Passionate about creating meaningful, user-centered applications and enjoy diving into new technologies to keep growing as a developer.
 
 ### 🚀 My Tech Stack
 - **Frontend:**  
