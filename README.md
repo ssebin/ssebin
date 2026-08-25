@@ -1,48 +1,27 @@
 ## Annyeong, I'm Sebin! 👋
 
-### 🎓 About Me
-- Completed my Bachelor's degree in Computer Science at the University of Malaya.
-- Currently pursuing a Master’s in Computer Science at Yonsei University with a focus on Human-AI Interaction and Data Visualization.
-- Passionate about creating meaningful, user-centered applications and enjoy diving into new technologies to keep growing as a developer.
+CS master's student at **Yonsei University**, working at the intersection of **Human-AI Interaction** and **Data Visualization**. Before Seoul, I did my Bachelor's in Computer Science at the **University of Malaya**.
 
-### 🚀 My Tech Stack
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+I spend most of my time on research, building tools that help researchers make sense of the data they collect, so my days are spent somewhere between study design, dashboards, and front-end code.
 
-- **Backend:**  
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white)
+### 🔬 What I'm working on
 
-- **Database:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+- Dashboards for research data collection: turning raw sensor, survey, and behavioral data into something a research team can actually monitor and act on
+- Study management tooling: the unglamorous side of running a research study, and how much of it can be made visible in one place
+- Building small, useful things end-to-end rather than large things halfway
 
-- **Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
-  ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
-  ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+### 🛠️ What I build with
 
-- **APIs:**  
-  ![REST](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat-square&logo=HTTP&logoColor=white)
-  ![Google Authentication](https://img.shields.io/badge/-Google%20Auth-4285F4?style=flat-square&logo=Google&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
-### 🌱 What I'm Learning
-- Advanced topics in Human-Computer Interaction and AI integration.
-- Scalable mobile application development and system architecture.
-- Data visualization and personal health tracking using AI systems.
+*Comfortable picking up whatever a project needs — this is just what I reach for first.*
 
-### 💬 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebinhwang)
+### 💬 Say hi
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebinhwang)
